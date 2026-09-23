@@ -1,0 +1,1 @@
+azcopy copy "/Users/sureshvaikuntam/Downloads/mcp" "https://whizstorage121982.blob.core.windows.net/<container-name>" --recursive=true
